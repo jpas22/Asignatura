@@ -13,8 +13,7 @@ if (!$conexion) {
 }
 echo "Connected successfully";
 ?>
-
-
+<!-- asdfasd -->
 
 
 <!DOCTYPE html>
