@@ -14,7 +14,7 @@ if (!$conexion) {
 echo "Connected successfully";
 ?>
 <!-- asdfasd -->
-
+<!-- Cambio2 -->
 
 <!DOCTYPE html>
 <html lang="es"> 
